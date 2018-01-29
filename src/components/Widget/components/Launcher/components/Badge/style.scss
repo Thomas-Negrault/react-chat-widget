@@ -1,0 +1,15 @@
+.launcher {
+  .badge{
+    position: fixed;
+    top: -5px;
+    right: -5px;
+    border-radius: 50%;
+    background-color: red;
+    padding-left: 8px;
+    padding-right: 8px;
+    text-align: center;
+    display: inline-block;
+    line-height: 2;
+    color: white;
+  }
+}
